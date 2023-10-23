@@ -1,0 +1,2 @@
+# continuum_robot_matlab
+一个用matlab来实现连续体机器人正逆运动学、动力学以及其他算法的仓库
